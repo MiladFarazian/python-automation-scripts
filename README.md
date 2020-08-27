@@ -34,5 +34,5 @@
   31. Twitter Scraper: Scrapes tweets from popular hashtags and saves them to csv file  
   32. Memrise Scraper: Get Barron's GRE words and their meanings from memrise.com  
   33. Highscalability Scraper: Scrape article names and url's from website
-  34. New York Crime data Scraper: Scrape New York crime data using SODA API endpoin
+  34. New York Crime data Scraper: Scrape New York crime data using SODA API endpoint
  
